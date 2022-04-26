@@ -1,0 +1,16 @@
+name: cogsci-2019-concept-learning
+
+channels:
+  - default
+  - conda-forge
+
+dependencies:
+  - ipython
+  - pre-commit
+  - python=3.7
+  - numpy
+  - scipy
+  - seaborn
+  - pip
+  - pip:
+    - -e .

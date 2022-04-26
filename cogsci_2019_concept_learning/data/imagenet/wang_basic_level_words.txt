@@ -1,0 +1,307 @@
+n02666196       abacus
+n12267677       acorn
+n02686568       aircraft
+n07884567       alcohol, alcoholic drink, alcoholic beverage, intoxicant, inebriant
+n02699494       altar
+n02219486       ant, emmet, pismire
+n02437312       Arabian camel, dromedary, Camelus dromedarius
+n01769347       arachnid, arachnoid
+n01902750       armor, armour
+n07718747       artichoke, globe artichoke
+n02747177       ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin
+n02756098       attire, garb, dress
+n02766320       baby bed, baby's bed
+n02773037       bag
+n02786058       Band Aid
+n02788148       bannister, banister, balustrade, balusters, handrail
+n02801938       basket, handbasket
+n02814860       beacon, lighthouse, beacon light, pharos
+n02131653       bear
+n02206856       bee
+n02164464       beetle
+n07720875       bell pepper
+n02127808       big cat, cat
+n02840245       binder, ring-binder
+n01503061       bird
+n02870880       bookcase
+n07248320       book jacket, dust cover, dust jacket, dust wrapper
+n02401031       bovid
+n02881193       bowl
+n00135148       box
+n02892767       brassiere, bra, bandeau
+n07679356       bread, breadstuff, staff of life
+n02894605       breakwater, groin, groyne, mole, bulwark, seawall, jetty
+n02895606       breathing device, breathing apparatus, breathing machine, ventilator
+n02898711       bridge, span
+n02906734       broom
+n02909053       bubble
+n02913152       building, edifice
+n02917067       bullet train, bullet
+n02924116       bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle
+n02274259       butterfly
+n08381820       cabinet
+n02942699       camera, photographic camera
+n07730033       cardoon
+n02965783       car mirror
+n02966687       carpenter's kit, tool kit
+n02977058       cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM
+n02978881       cassette
+n02979186       cassette player
+n02980441       castle
+n02121620       cat, true cat
+n02988304       CD player
+n01784675       centipede
+n08057816       chain
+n03000684       chain saw, chainsaw
+n03016953       chiffonier, commode
+n09246464       cliff, drop, drop-off
+n03045337       cloak
+n01909422       coelenterate, cnidarian
+n03065424       coil, spiral, volute, whorl, helix
+n03074380       column, pillar
+n06596364       comic book
+n03082979       computer, computing machine, computing device, data processor, electronic computer, information processing system
+n07810907       condiment
+n03101986       cooking utensil, cookware
+n07556970       course
+n01976957       crab
+n02012849       crane
+n01985128       crayfish, crawfish, crawdad, crawdaddy
+n01696633       crocodilian reptile, crocodilian
+n07713395       cruciferous vegetable
+n07718472       cucumber, cuke
+n03151077       curtain, drape, drapery, mantle, pall
+n03160309       dam, dike, dyke
+n03179701       desk
+n03188531       diaper, nappy, napkin
+n02232951       dictyopterous insect
+n03201208       dining table, board
+n03206908       dish
+n03208938       disk brake, disc brake
+n03216828       dock, dockage, docking facility
+n02084071       dog, domestic dog, Canis familiaris
+n03223299       doormat, welcome mat
+n07860988       dough
+n03240683       drilling platform, offshore rig
+n02074367       dugong, Dugong dugon
+n13133613       ear, spike, capitulum
+n02316707       echinoderm
+n02453611       edentate
+n07705931       edible fruit
+n03271574       electric fan, blower
+n03274561       electro-acoustic transducer
+n03277771       electronic device
+n06881662       elephant
+n03290653       entertainment center
+n13869788       envelope
+n02374149       equine, equid
+n07920052       espresso
+n03309808       fabric, cloth, material, textile
+n03314780       face powder
+n03322940       farm machine
+n03323703       fastener, fastening, holdfast, fixing
+n03327234       fence, fencing
+n03337140       file, file cabinet, filing cabinet
+n03339643       filter
+n02512053       fish
+n11669921       flower
+n02190166       fly
+n03380867       footwear, footgear
+n03388043       fountain
+n03388549       four-poster
+n14764910       fox
+n01639765       frog, toad, toad frog, anuran, batrachian, salientian
+n12992868       fungus
+n03414162       game equipment
+n09288635       geyser
+n03438257       glass, drinking glass
+n03450230       gown
+n03459775       grille, radiator grille
+n03461385       grocery store, grocery, food market, market
+n03467068       guillotine
+n03472232       gymnastic apparatus, exerciser
+n03483316       hand blower, blow dryer, blow drier, hair dryer, hair drier
+n03489162       hand tool
+n03492542       hard disc, hard disk, fixed disk
+n03497657       hat, chapeau, lid
+n03498962       hatchet
+n07802026       hay
+n03502509       headdress, headgear
+n03508101       heater, warmer
+n03513376       helmet
+n01986214       hermit crab
+n02398521       hippopotamus, hippo, river horse, Hippopotamus amphibius
+n12620546       hip, rose hip, rosehip
+n02246011       homopterous insect, homopteran
+n03546340       housing, lodging, living accommodations
+n02117135       hyena, hyaena
+n03584254       iPod
+n03584829       iron, smoothing iron
+n01990800       isopod
+n03594734       jean, blue jean, denim
+n03595614       jersey, T-shirt, tee shirt
+n03602883       joystick
+n03613873       keyboard
+n03614532       keyboard instrument
+n03620052       kitchen appliance
+n03624134       knife
+n02264363       lacewing, lacewing fly
+n03637318       lampshade, lamp shade
+n03649909       lawn mower, mower
+n03657121       lens cap, lens cover
+n02323902       leporid, leporid mammal
+n03666591       lighter, light, igniter, ignitor
+n01674464       lizard
+n02437616       llama
+n07792725       lobster
+n03692522       loupe, jeweler's loupe
+n03697007       lumbermill, sawmill
+n03706229       magnetic compass
+n01874434       marsupial, pouched mammal
+n07711569       mashed potato
+n03725035       mask
+n03733281       maze, labyrinth
+n03733805       measuring cup
+n03733925       measuring instrument, measuring system, measuring device
+n03736970       mechanical device
+n03743902       memorial, monument
+n07565083       menu
+n03763968       military uniform
+n03764736       milk can
+n03775071       mitten
+n03777754       modem
+n01940736       mollusk, mollusc, shellfish
+n03782006       monitor
+n01871875       monotreme, egg-laying mammal
+n09359803       mountain, mount
+n03792972       mountain tent
+n03795580       movable barrier
+n07734744       mushroom
+n02441326       musteline mammal, mustelid, musteline
+n03803284       muzzle
+n03814906       necklace
+n03815615       necktie, tie
+n02268148       odonate
+n03852280       optical instrument
+n02226183       orthopterous insect, orthopteron, orthopteran
+n03857828       oscilloscope, scope, cathode-ray oscilloscope, CRO
+n03863923       overgarment, outer garment
+n03871628       packet
+n03873416       paddle, boat paddle
+n03876231       paintbrush
+n03877472       pajama, pyjama, pj's, jammies
+n03888257       parachute, chute
+n03899768       patio, terrace
+n03907227       pen
+n03908714       pencil sharpener
+n03915437       percussion instrument, percussive instrument
+n00007846       person, individual, someone, somebody, mortal, soul
+n03920288       Petri dish
+n03924679       photocopier
+n03929660       pick, plectrum, plectron
+n03935335       piggy bank, penny bank
+n03938244       pillow
+n03967562       plow, plough
+n03977158       pole
+n03991062       pot, flowerpot
+n03995372       power drill
+n03998194       prayer rug, prayer mat
+n02469914       primate
+n04004767       printer
+n04005630       prison, prison house
+n02507649       procyonid
+n09399592       promontory, headland, head, foreland
+n04015204       protective garment
+n04019541       puck, hockey puck
+n04033995       quilt, comforter, comfort, puff
+n04039381       racket, racquet
+n04040759       radiator
+n04044716       radio telescope, radio reflector
+n04041544       radio, wireless
+n04074963       remote control, remote
+n13902048       ridge
+n04097866       robe
+n04097866       robe
+n02329401       rodent, gnawer
+n04105438       roof
+n04116512       rubber eraser, rubber, pencil eraser
+n01629276       salamander
+n04143897       scarf
+n04149813       scoreboard
+n04152387       screen
+n02077923       sea lion
+n04162433       seat
+n04162706       seat belt, seatbelt
+n11683989       seed
+n04179913       sewing machine
+n04183329       shaker
+n04187061       sheath
+n04192238       shelter
+n04192858       shield
+n04201297       shoji
+n04202417       shop, store
+n09433442       shore
+n04228054       ski
+n04230808       skirt
+n04235291       sled, sledge, sleigh
+n04243941       slot machine, coin machine
+n01726692       snake, serpent, ophidian
+n04254120       soap dispenser
+n04258138       solar dish, solar collector, solar furnace
+n04263760       source of illumination
+n04264628       space bar
+n04266014       space shuttle
+n07715561       squash
+n07006712       stage
+n04317175       stethoscope
+n04317420       stick
+n06794110       street sign
+n04336996       stretcher
+n04338517       stringed instrument
+n04350905       suit, suit of clothes
+n04355933       sunglass
+n01215902       support
+n04361095       supporting structure
+n04367480       swab, swob, mop
+n04370048       sweater, jumper
+n04371563       swimsuit, swimwear, bathing suit, swimming costume, bathing costume
+n02395003       swine
+n04372370       switch, electric switch, electrical switch
+n04376876       syringe
+n04380533       table lamp
+n04392985       tape player
+n04399382       teddy, teddy bear
+n04401088       telephone, phone, telephone set
+n04404412       television, television system
+n04447443       toiletry, toilet articles
+n15075141       toilet tissue, toilet paper, bathroom tissue
+n04453910       top, cover
+n06874185       traffic light, traffic signal, stoplight
+n04475032       trap
+n04476259       tray
+n01704323       triceratops
+n01768244       trilobite
+n04486054       triumphal arch
+n01662784       turtle
+n01871265       tusker
+n04517823       vacuum, vacuum cleaner
+n09468604       valley, vale
+n04531098       vessel
+n02134971       viverrine, viverrine mammal
+n02231487       walking stick, walkingstick, stick insect
+n04548362       wallet, billfold, notecase, pocketbook
+n04550184       wardrobe, closet, press
+n05644334       watercraft
+n04565375       weapon, arm, weapon system
+n04571292       weight, free weight, exercising weight
+n02062744       whale
+n04576211       wheeled vehicle
+n04579432       whistle
+n04580493       white goods
+n02115335       wild dog
+n04586932       wind instrument, wind
+n04590129       window shade
+n07648549       wing
+n02114100       wolf
+n04598010       wooden spoon
+n01922303       worm
